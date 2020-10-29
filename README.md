@@ -2,7 +2,7 @@
 
 Developer from Ukraine.
 
-🖊 Working on [coCity project](https://eco-city.org.ua/).
+🖊 Working on [EcoCity project](https://eco-city.org.ua/).
 
 OpenSource proect:
 * CryptosV

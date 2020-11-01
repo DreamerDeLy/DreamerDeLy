@@ -4,7 +4,7 @@ Developer from Ukraine.
 
 🖊 Working on [EcoCity project](https://eco-city.org.ua/).
 
-OpenSource proect:
+OpenSource projects:
 * CryptosV
 * FacebookPanoramaCalculator
 * GitHubContributionsParser

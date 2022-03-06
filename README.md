@@ -1,10 +1,8 @@
 ## DeLy Dreamer
 
-🤪 Developer from Ukraine (Ivano-Frankivsk). 
-
-👨‍💻 C++ @ IoT / C# @ .NET
-
-🖊 Working on [EcoCity project](https://eco-city.org.ua/) (C++, ESP32/ESP8266, Arduino Framework).
+🤪 Developer from Ukraine (Ivano-Frankivsk).   
+👨‍💻 C++ @ IoT / C# @ .NET   
+🖊 Working on [EcoCity](https://eco-city.org.ua/) project (C++, ESP32/ESP8266, Arduino Framework).
 
 ### OpenSource projects:
 * [CryptosV](https://github.com/DreamerDeLy/CryptosV) - Program for text cryptography. Can encrypt/decrypt classic ciphers: Caesar, Vigenere, Atbash, A1Z26 and more. Supports two languages and custom alphabets.

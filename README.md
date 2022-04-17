@@ -1,7 +1,7 @@
 ## DeLy Dreamer
 
 🤪 Developer from Ukraine (Ivano-Frankivsk).   
-👨‍💻 C++ / IoT
+👨‍💻 C++ / IoT  
 🖊 Working on [EcoCity](https://eco-city.org.ua/) project (C++, ESP32/ESP8266, Arduino Framework).
 
 ### Contacts

@@ -1,8 +1,10 @@
 ## DeLy Dreamer
 
-🤪 Developer from Ukraine (Ivano-Frankivsk).   
-👨‍💻 C++ / IoT  
-🖊 Working on [EcoCity](https://eco-city.org.ua/) project (C++, ESP32/ESP8266, Arduino Framework).
+🤪 Developer from Ukraine (Ivano-Frankivsk)   
+🤷‍♂️ 18 y.o. but feels like 15    
+👨‍💻 `C++` / `IoT` (4 years of expirience)   
+💼 Working on [EcoCity](https://eco-city.org.ua/) project (C++, ESP32/ESP8266, Arduino Framework)   
+📣 Ukrainan / English / ~~Russian~~
 
 ### Contacts
 * [Telegram](https://t.me/delydreamer)

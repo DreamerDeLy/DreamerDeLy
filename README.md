@@ -6,7 +6,4 @@
 💼 Working on [EcoCity](https://eco-city.org.ua/) project (C++, ESP32/ESP8266, Arduino Framework)   
 📣 Ukrainan / English / ~~Russian~~
 
-### Contacts
-* [Telegram](https://t.me/delydreamer)
-* [Instagram](https://instagram.com/delydreamer)
-* [Facebook](https://www.facebook.com/DeLyDreamer)
+[Telegram](https://t.me/delydreamer) | [Instagram](https://instagram.com/delydreamer) | [Facebook](https://www.facebook.com/DeLyDreamer)

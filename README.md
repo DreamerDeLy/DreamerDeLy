@@ -1,6 +1,6 @@
-## DeLy Dreamer
+## Dmytro DeLy Obukhov
 
-🤪 Developer from Ukraine (Ivano-Frankivsk)   
+🤪 Developer from Ukraine (Ivano-Frankivsk / Kyiv)   
 🤷‍♂️ 20 y.o. but feels like 17   
 👨‍💻 `C++` / `IoT` (5 years of expirience)   
 💼 Working on [EcoCity](https://eco-city.org.ua/) project (C++, ESP32/ESP8266, Arduino Framework)   

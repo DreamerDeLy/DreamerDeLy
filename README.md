@@ -1,7 +1,7 @@
-## Dmytro DeLy Obukhov
+## Dmytro "DeLy" Obukhov
 
 `🤪`&nbsp; Developer from Ukraine (Ivano-Frankivsk / Kyiv)   
-`🤷‍♂️`&nbsp; 22 y.o. but feels like 17       
+`🤷‍♂️`&nbsp; 23 y.o. but feels like 17       
 
 _Combines the benefits of the superiority complex and the imposter syndrome._
 <br><br>
@@ -14,4 +14,5 @@ _Combines the benefits of the superiority complex and the imposter syndrome._
 💼 Working on [EcoCity](https://eco-city.org.ua/) project   
 <br>
 
-[Telegram](https://t.me/delydreamer) | [Instagram](https://instagram.com/delydreamer) | [Facebook](https://www.facebook.com/DeLyDreamer)
+💬 [Telegram](https://t.me/delydreamer) | [Instagram](https://instagram.com/delydreamer) | [Facebook](https://www.facebook.com/DeLyDreamer)  
+🔗 [delydreamer.com](https://delydreamer.com)
